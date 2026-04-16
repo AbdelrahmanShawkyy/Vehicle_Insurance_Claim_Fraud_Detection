@@ -1,4 +1,4 @@
-# 🚗 Vehicle Insurance Claim Fraud Detection
+# Vehicle Insurance Claim Fraud Detection
 
 An end-to-end machine learning project designed to detect fraudulent insurance claims. This project covers the full ML lifecycle: from Data Exploration and Feature Engineering to Model Deployment using a modern tech stack.
 
