@@ -29,4 +29,23 @@ An end-to-end machine learning project designed to detect fraudulent insurance c
 ├── data/
 │   └── insurance_claims.csv # Dataset
 └── README.md
+```
+
+## How to Run the Project
+
+### Run the Backend (FastAPI)
+The API handles the model logic and serves predictions.
+
+```bash
+cd api
+uvicorn main:app --reload
+```
+
+### Run the Frontend (Streamlit)
+The dashboard provides a user-friendly interface.
+
+```bash
+cd frontend
+streamlit run app.py
+```
 
