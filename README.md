@@ -30,9 +30,3 @@ An end-to-end machine learning project designed to detect fraudulent insurance c
 │   └── insurance_claims.csv # Dataset
 └── README.md
 
-
-# Navigate to api folder
-cd api
-
-# Start the server
-uvicorn main:app --reload
